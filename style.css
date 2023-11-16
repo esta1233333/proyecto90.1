@@ -1,0 +1,46 @@
+
+.hola 
+{
+    background-color: yellow;
+   width: 50%;
+}
+
+.login_div1 
+{ background: rgb(0, 204, 255);
+     padding: 10px;
+   float: none;
+     border-radius: 15px; 
+}
+.login_div2 
+{
+    background: rgb(4, 0, 255);
+     padding: 10px;
+   float: none;
+     border-radius: 15px; 
+}
+.raton 
+{
+    background-image: url("imagen.avif");
+}
+#web 
+{
+    color: white;
+}
+
+
+
+#player1_name , #player2_name 
+{ display: inline-block; margin-left: 20px; }
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: solid #AA4465;
+float: none;
+text-align: left;
+}
+#alo 
+{
+background-color: #ffb5cc;
+}
